@@ -1,0 +1,29 @@
+* {
+    background-color: antiquewhite
+}
+
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+    border: none;
+    width: 200px;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    border-radius: 7px;
+}
+
+button:active {
+    color: blue;
+}
+
+#increment-btn {
+    background-color: darkred;
+}
+
+#save-btn {
+    background-color: darkgreen;
+}
